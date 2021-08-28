@@ -1,0 +1,45 @@
+body{
+	background-color:yellow;
+	margin:0;
+	}
+h1{
+	line-height:100px;
+	text-align:center;
+	color:red;
+	background-color:orange;
+	margin:0;
+}
+.login_form{
+	border:1px dashed orange;
+	width:200px;
+	height:250px;
+	display:block;
+	margin:0px 60px;
+	padding:20px;
+}
+h3{
+	color:red;
+	text-align:center;
+}
+label{
+	color:red;
+}
+input{
+	border:1px solid orange;
+	margin:2px;
+	border-radius:10px;
+	background-color:yellow;
+	color:red;
+}
+.login{
+	background-color:yellow;
+	color:red;
+	margin:5px;
+	height:25px;
+}
+a{
+	color:red;
+}
+a:hover{
+	color:green;
+}
