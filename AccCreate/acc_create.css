@@ -1,0 +1,74 @@
+body{
+	background-color:yellow;
+	margin:0;
+	padding:0;
+}
+h1{
+	line-height:100px;
+	background-color:orange;
+	color:red;
+	text-align:center;
+	margin:0;
+}
+h3{
+	color:red;
+	text-align:center;
+}
+form{
+	display:block;
+	border:1px dashed red;
+	width:250px;
+	height:350px;
+	margin:0px 35px;
+	padding:20px;
+}
+.choose_day{
+	border:1px solid orange;
+	background-color:yellow;
+	color:red;
+	margin:2px 0px;
+	height:20px;
+	border-radius:10px;
+}
+.name{
+	border:1px solid orange;
+	background-color:yellow;
+	color:red;
+	margin:2px 0px;
+	height:20px;
+	border-radius:10px;
+}
+.email{
+	border:1px solid orange;
+	background-color:yellow;
+	color:red;
+	margin:2px 0px;
+	hright:20px;
+	border-radius:10px;
+}
+.password{
+	border:1px solid orange;
+	background-color:yellow;
+	color:red;
+	margin:2px 0px;
+	height:20px;
+	border-radius:10px;
+}
+.create_btn{
+	border:1px solid orange;
+	background-color:yellow;
+	color:red;
+	margin:4px;
+	border-radius:10px;
+	height:25px;
+}
+label{
+	color:red;
+	margin:2px;
+}
+a{
+	color:red;
+}
+a:hover{
+	color:green;
+}
